@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraftforge.registries.DeferredRegister"/>
+<fullyQualifiedTypeName name="net.minecraftforge.registries.ForgeRegistries"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.RegistryObject"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="com.knoernschild.rubymod.items.ItemBase"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext"/>
+<fullyQualifiedTypeName name="com.knoernschild.rubymod.utl.registryHandler"/>
+<fullyQualifiedTypeName name="java.rmi.registry.RegistryHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemGroup"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="net.minecraft.item.IItemTier"/>
+<fullyQualifiedTypeName name="net.minecraft.item.SwordItem"/>
+<fullyQualifiedTypeName name="com.knoernschild.rubymod.tools.RubyItemTier"/>
+<fullyQualifiedTypeName name="com.knoernschild.rubymod.utl.RegistryHandler"/>
+<fullyQualifiedTypeName name="com.knoernschild.rubymod.RubyMod"/>
+<fullyQualifiedTypeName name="java.util.function.Supplier"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item.Properties"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ArmorItem"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.EquipmentSlotType"/>
+<fullyQualifiedTypeName name="com.knoernschild.rubymod.armour.ModArmourMaterial"/>
+</qualifiedTypeNameHistroy>

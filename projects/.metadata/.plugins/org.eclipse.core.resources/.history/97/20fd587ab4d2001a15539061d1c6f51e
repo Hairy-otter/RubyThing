@@ -1,0 +1,5 @@
+package com.knoernschild.rubymod.armour;
+
+public enum ModArmourMaterial {
+
+}

@@ -1,0 +1,104 @@
+2020-06-22 11:55:39 - INFO - App Start Up.
+2020-06-22 11:55:39 - INFO - Attempting to Open .projects file
+2020-06-22 11:55:39 - INFO - Found 3 projects.
+2020-06-22 11:56:14 - INFO - looking for: Ian'sFirstMinecraftCode
+2020-06-22 11:56:14 - INFO - Ian'sMinecraftcode
+2020-06-22 11:56:14 - INFO - Ian'sfirstMinecraftmod
+2020-06-22 11:56:14 - INFO - Ian'sfirstmod
+2020-06-22 11:56:14 - INFO - New Project path: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'sFirstMinecraftCode\
+2020-06-22 11:56:14 - INFO - Ian'sFirstMinecraftCode added to the .projects file successfully
+2020-06-22 11:56:14 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Program Files (x86)\\CodeForce Minecraft Basics\\projects'
+2020-06-22 11:56:14 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'sFirstMinecraftCode\\CFForge\gradlew setUpDecompWorkspace
+2020-06-22 11:56:14 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'sFirstMinecraftCode\\CFForge
+2020-06-22 11:56:14 - ERROR - [WinError 3] The system cannot find the path specified: "C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\Ian'sFirstMinecraftCode\\\\CFForge"
+2020-06-22 11:56:14 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'sFirstMinecraftCode\\CFForge\gradlew eclipse
+2020-06-22 11:56:14 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'sFirstMinecraftCode\\CFForge
+2020-06-22 11:56:14 - ERROR - [WinError 3] The system cannot find the path specified: "C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\Ian'sFirstMinecraftCode\\\\CFForge"
+2020-06-22 11:56:14 - ERROR - Directory not copied 2. Error: [WinError 267] The directory name is invalid
+2020-06-22 11:57:03 - INFO - looking for: Ian'sFirstMinecraftCode
+2020-06-22 11:57:03 - INFO - Ian'sMinecraftcode
+2020-06-22 11:57:03 - INFO - Ian'sfirstMinecraftmod
+2020-06-22 11:57:03 - INFO - Ian'sfirstmod
+2020-06-22 11:57:03 - INFO - Ian'sFirstMinecraftCode
+2020-06-22 12:04:30 - INFO - App Start Up.
+2020-06-22 12:04:30 - INFO - Attempting to Open .projects file
+2020-06-22 12:04:30 - INFO - Found 4 projects.
+2020-06-22 12:04:46 - INFO - looking for: Ian'scode
+2020-06-22 12:04:46 - INFO - Ian'sMinecraftcode
+2020-06-22 12:04:46 - INFO - Ian'sfirstMinecraftmod
+2020-06-22 12:04:46 - INFO - Ian'sfirstmod
+2020-06-22 12:04:46 - INFO - Ian'sFirstMinecraftCode
+2020-06-22 12:04:46 - INFO - New Project path: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode\
+2020-06-22 12:04:46 - INFO - Ian'scode added to the .projects file successfully
+2020-06-22 12:04:46 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Program Files (x86)\\CodeForce Minecraft Basics\\projects'
+2020-06-22 12:04:46 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode\\CFForge\gradlew setUpDecompWorkspace
+2020-06-22 12:04:46 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode\\CFForge
+2020-06-22 12:04:46 - ERROR - [WinError 3] The system cannot find the path specified: "C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\Ian'scode\\\\CFForge"
+2020-06-22 12:04:46 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode\\CFForge\gradlew eclipse
+2020-06-22 12:04:46 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode\\CFForge
+2020-06-22 12:04:46 - ERROR - [WinError 3] The system cannot find the path specified: "C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\Ian'scode\\\\CFForge"
+2020-06-22 12:04:46 - ERROR - Directory not copied 2. Error: [WinError 267] The directory name is invalid
+2020-06-22 12:07:23 - INFO - looking for: Ian'scode
+2020-06-22 12:07:23 - INFO - Ian'sMinecraftcode
+2020-06-22 12:07:23 - INFO - Ian'sfirstMinecraftmod
+2020-06-22 12:07:23 - INFO - Ian'sfirstmod
+2020-06-22 12:07:23 - INFO - Ian'sFirstMinecraftCode
+2020-06-22 12:07:23 - INFO - Ian'scode
+2020-06-22 12:07:36 - INFO - looking for: Ian'scode2
+2020-06-22 12:07:36 - INFO - Ian'sMinecraftcode
+2020-06-22 12:07:36 - INFO - Ian'sfirstMinecraftmod
+2020-06-22 12:07:36 - INFO - Ian'sfirstmod
+2020-06-22 12:07:36 - INFO - Ian'sFirstMinecraftCode
+2020-06-22 12:07:36 - INFO - Ian'scode
+2020-06-22 12:07:36 - INFO - New Project path: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode2\
+2020-06-22 12:07:36 - INFO - Ian'scode2 added to the .projects file successfully
+2020-06-22 12:07:36 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Program Files (x86)\\CodeForce Minecraft Basics\\projects'
+2020-06-22 12:07:36 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode2\\CFForge\gradlew setUpDecompWorkspace
+2020-06-22 12:07:36 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode2\\CFForge
+2020-06-22 12:07:36 - ERROR - [WinError 3] The system cannot find the path specified: "C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\Ian'scode2\\\\CFForge"
+2020-06-22 12:07:36 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode2\\CFForge\gradlew eclipse
+2020-06-22 12:07:36 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\Ian'scode2\\CFForge
+2020-06-22 12:07:36 - ERROR - [WinError 3] The system cannot find the path specified: "C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\Ian'scode2\\\\CFForge"
+2020-06-22 12:07:36 - ERROR - Directory not copied 2. Error: [WinError 267] The directory name is invalid
+2020-06-22 12:09:47 - INFO - App Start Up.
+2020-06-22 12:09:47 - INFO - Attempting to Open .projects file
+2020-06-22 12:09:47 - INFO - Found 6 projects.
+2020-06-22 12:10:30 - INFO - looking for: IansMinecraftcode
+2020-06-22 12:10:30 - INFO - Ian'sMinecraftcode
+2020-06-22 12:10:30 - INFO - Ian'sfirstMinecraftmod
+2020-06-22 12:10:30 - INFO - Ian'sfirstmod
+2020-06-22 12:10:30 - INFO - Ian'sFirstMinecraftCode
+2020-06-22 12:10:30 - INFO - Ian'scode
+2020-06-22 12:10:30 - INFO - Ian'scode2
+2020-06-22 12:10:30 - INFO - New Project path: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\IansMinecraftcode\
+2020-06-22 12:10:30 - INFO - IansMinecraftcode added to the .projects file successfully
+2020-06-22 12:10:30 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Program Files (x86)\\CodeForce Minecraft Basics\\projects'
+2020-06-22 12:10:30 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\IansMinecraftcode\\CFForge\gradlew setUpDecompWorkspace
+2020-06-22 12:10:30 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\IansMinecraftcode\\CFForge
+2020-06-22 12:10:30 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\IansMinecraftcode\\\\CFForge'
+2020-06-22 12:10:30 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\IansMinecraftcode\\CFForge\gradlew eclipse
+2020-06-22 12:10:30 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\IansMinecraftcode\\CFForge
+2020-06-22 12:10:30 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\IansMinecraftcode\\\\CFForge'
+2020-06-22 12:10:30 - ERROR - Directory not copied 2. Error: [WinError 267] The directory name is invalid
+2020-06-26 14:50:51 - INFO - App Start Up.
+2020-06-26 14:50:51 - INFO - Attempting to Open .projects file
+2020-06-26 14:50:51 - INFO - Found 7 projects.
+2020-06-26 14:53:03 - INFO - App Start Up.
+2020-06-26 14:53:03 - INFO - Attempting to Open .projects file
+2020-06-26 14:53:03 - INFO - Found 0 projects.
+2020-06-26 14:53:24 - INFO - App Start Up.
+2020-06-26 14:53:24 - INFO - Attempting to Open .projects file
+2020-06-26 14:53:24 - INFO - Found 0 projects.
+2020-06-26 14:54:52 - INFO - looking for: MyFirstMinecraftCode
+2020-06-26 14:54:52 - INFO - New Project path: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\MyFirstMinecraftCode\
+2020-06-26 14:54:52 - INFO - MyFirstMinecraftCode added to the .projects file successfully
+2020-06-26 14:54:52 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Program Files (x86)\\CodeForce Minecraft Basics\\projects'
+2020-06-26 14:54:52 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\MyFirstMinecraftCode\\CFForge\gradlew setUpDecompWorkspace
+2020-06-26 14:54:52 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\MyFirstMinecraftCode\\CFForge
+2020-06-26 14:54:52 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\MyFirstMinecraftCode\\\\CFForge'
+2020-06-26 14:54:52 - INFO - C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\MyFirstMinecraftCode\\CFForge\gradlew eclipse
+2020-06-26 14:54:52 - INFO - Attempting to run setUpDecompWorkspace here: C:\Users\Ian\Desktop\CodeForce\MinecraftBasics\projects\MyFirstMinecraftCode\\CFForge
+2020-06-26 14:54:52 - ERROR - [WinError 3] The system cannot find the path specified: 'C:\\Users\\Ian\\Desktop\\CodeForce\\MinecraftBasics\\projects\\MyFirstMinecraftCode\\\\CFForge'
+2020-06-26 14:54:52 - ERROR - Directory not copied 2. Error: [WinError 267] The directory name is invalid
+2020-06-26 14:55:59 - INFO - looking for: MyFirstMinecraftCode
+2020-06-26 14:55:59 - INFO - MyFirstMinecraftCode
